@@ -1,0 +1,118 @@
+html{
+  scroll-behavior: smooth;
+  
+  
+}
+body{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  
+}
+
+
+
+.box{
+  background-color: rgba(148, 152, 192, 1);
+  height: 100vh;
+ display: flex;
+  justify-content: center ;
+  align-items: center ;
+  gap: 4px;
+ 
+}
+.box .hr{
+  height: 100px;
+  width: 85px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: linear-gradient(#2FE8CE,#1A2DAD);
+  position: relative;
+  box-shadow: 1px 3px 5px #1049B7F7;
+  border-radius: 5px;
+}
+.box .hr .ho {
+  border: 2px solid #A847EE52;
+  padding: 5px 15px;
+  color: white;
+  background-color: #3D4CEC;
+border-radius: 3px;
+}
+
+.box .hr .hc{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: whitesmoke;
+  font-size: 4rem;
+  
+  
+  
+}
+.box .mn{
+  height: 100px;
+  width: 85px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: linear-gradient(#2FE8CE,#1A2DAD);
+  position: relative;
+  box-shadow: 1px 3px 5px #1049B7F7;
+  border-radius: 5px;
+}
+.box .mn .mo {
+  border: 2px solid #A847EE52;
+  padding: 5px 7px;
+  color: white;
+  background-color: #3D4CEC;
+  border-radius: 3px;
+}
+
+.box .mn .mc{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: whitesmoke;
+  font-size: 4rem;
+  
+  
+  
+}
+.box .sc{
+  height: 100px;
+  width: 85px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: linear-gradient(#2FE8CE,#1A2DAD);
+  position: relative;
+  box-shadow: 1px 3px 5px #1049B7F7;
+  border-radius: 5px;
+}
+.box .sc .so {
+  border: 2px solid #A847EE52;
+  padding: 5px 10px;
+  color: white;
+  background-color: #3D4CEC;
+  border-radius: 3px;
+}
+
+.box .sc .scc{
+  
+  color: whitesmoke;
+  font-size: 4rem;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  
+  
+}
+.box .ap{
+  box-shadow: 1px 3px 5px #3C3E3DEB;
+  font-size: 2rem;
+  background-color: #05B731;
+  color: white ;
+  margin-top: 55px;
+  padding: 5px;
+  font-weight: 500;
+  border-radius: 5px;
+}
